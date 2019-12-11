@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+// config for layer5 adapter
+package adapter.layer5.config;
+
+import "gogoproto/gogo.proto";
+
+option go_package="config";
+
+// config for layer5 adapter
+message Params {
+    // Path of the file to save the information about runtime requests.
+    string file_path = 1;
+}
