@@ -1,3 +1,6 @@
+<p style="text-align:center;" align="center">
+  <img align="center" src="https://raw.githubusercontent.com/layer5io/layer5/master/assets/images/layer5/layer5-tag-community-white-bg.png" width="45%" /></p>
+  
 # Layer5 Istio Adapter
 
 ## Deploying the adapter to a Kubernetes cluster with Istio
