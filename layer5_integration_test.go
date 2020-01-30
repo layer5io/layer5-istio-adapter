@@ -5,9 +5,10 @@ import (
 	"io/ioutil"
 	"testing"
 
-	adapter_integration "istio.io/istio/mixer/pkg/adapter/test"
 	"os"
 	"strings"
+
+	adapter_integration "istio.io/istio/mixer/pkg/adapter/test"
 )
 
 func TestReport(t *testing.T) {

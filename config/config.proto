@@ -1,6 +1,20 @@
 syntax = "proto3";
+// $title: Layer5 adapter
+// $description: Adapter to deliver metrics to Layer5.
+// $location: https://istio.io/docs/reference/config/policy-and-telemetry/adapters/layer5.html
+// $provider: Layer5, Inc.
+// $contact_email: community@layer5.io
+// $support_link:
+// $source_link: https://github.com/layer5io/layer5-istio-adapter
+// $latest_release_link: https://github.com/layer5io/layer5-istio-adapter/releases
+// $helm_chart_link:
+// $istio_versions: "1.1+"
+// $supported_templates: metric
+// $logo_link: https://github.com/layer5io/layer5-istio-adapter/blob/master/layer5.svg
 
-// config for layer5 adapter
+// The `layer5` adapter collects metrics
+//
+// This adapter supports the [metric template](https://istio.io/docs/reference/config/policy-and-telemetry/templates/metric/).
 package adapter.layer5.config;
 
 import "gogoproto/gogo.proto";
