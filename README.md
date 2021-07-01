@@ -1,12 +1,19 @@
 <p style="text-align:center;" align="center">
-  <img align="center" src="https://raw.githubusercontent.com/layer5io/layer5/master/assets/images/layer5/layer5-tag-community-white-bg.png" width="45%" /></p>
-  
-![GitHub contributors](https://img.shields.io/github/contributors/layer5io/layer5.svg)
-![GitHub](https://img.shields.io/github/license/layer5io/layer5.svg) 
-![GitHub issues by-label](https://img.shields.io/github/issues/layer5io/layer5/help%20wanted.svg?color=%23DDDD00)
-[![Slack](http://slack.layer5.io/badge.svg)](http://slack.layer5.io)
-![Twitter Follow](https://img.shields.io/twitter/follow/layer5.svg?label=Follow&style=social)
-  
+  <img align="center" src="https://raw.githubusercontent.com/layer5io/layer5/master/src/assets/images/layer5/layer5-tagline/png/layer5-tag-community-white-bg.png" width="45%" /></p>
+
+<p align="center">
+<a href="https://github.com/layer5io/layer5" alt="GitHub contributors">
+<img src="https://img.shields.io/github/contributors/layer5io/layer5.svg" /></a>
+<a href="https://github.com/layer5io/layer5" alt="License">
+<img src="https://img.shields.io/github/license/layer5io/layer5.svg" /></a>
+<a href="https://github.com/layer5io/layer5" alt="GitHub issues by-label">
+<img src="https://img.shields.io/github/issues/layer5io/layer5/help%20wanted.svg?color=%23DDDD00" /></a>
+<a href="https://github.com/layer5io/layer5" alt="Slack">
+<img src="https://img.shields.io/badge/Slack-@layer5.svg?logo=slack" /></a>
+<a href="https://github.com/layer5io/layer5" alt="Twitter Follow">
+<img src="https://img.shields.io/twitter/follow/layer5.svg?label=Follow&style=social" /></a>
+</p>
+
 # Layer5 Istio Adapter
 
 ## Deploying the adapter to a Kubernetes cluster with Istio
@@ -78,7 +85,7 @@ make gen
 Please do! Contributions, updates, [discrepancy reports](/../../issues) and [pull requests](/../../pulls) are welcome. This project is community-built and welcomes collaboration. Contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 <p>
-This project is community-built and welcomes collaboration! See the <a href="https://docs.google.com/document/d/17OPtDE_rdnPQxmk2Kauhm3GwXF1R5dZ3Cj8qZLKdo5E/edit">Layer5 Community Welcome Guide</a>. 
+This project is community-built and welcomes collaboration! See the <a href="https://docs.google.com/document/d/17OPtDE_rdnPQxmk2Kauhm3GwXF1R5dZ3Cj8qZLKdo5E/edit">Layer5 Community Welcome Guide</a>.
 </p>
 <p>
   <ul>
@@ -97,7 +104,7 @@ This project is community-built and welcomes collaboration! See the <a href="htt
 
 ### About
 
-[Layer5.io](https://layer5.io) is a community-maintained repository of information pertaining to the technology ecosystem surrounding service meshes, API gateways, edge proxies, ingress and egress controllers - - microservice management in cloud native environments. 
+[Layer5.io](https://layer5.io) is a community-maintained repository of information pertaining to the technology ecosystem surrounding service meshes, API gateways, edge proxies, ingress and egress controllers - - microservice management in cloud native environments.
 
 #### License
 
