@@ -97,7 +97,7 @@ This project is community-built and welcomes collaboration! See the <a href="htt
     </ul>
 </p>
 
-*Not sure where to start?* Grab an open issue with the [help-wanted label](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+label%3A%22help+wanted%22+).
+*Not sure where to start?* Grab an open issue with the [help-wanted label](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+).
 
 ### About
 
