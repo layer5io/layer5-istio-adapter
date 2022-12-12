@@ -120,7 +120,7 @@ Find out more on the <a href="https://layer5.io/community">Layer5 community</a>.
 
 ### About
 
-[Layer5.io](https://layer5.io) is a community-maintained repository of information pertaining to the technology ecosystem surrounding service meshes, API gateways, edge proxies, ingress and egress controllers - - microservice management in cloud native environments.
+[Layer5](https://layer5.io)'s cloud native application and infrastructure management software enables organizations to expect more from their infrastructure. We embrace developer-defined infrastructure. We empower engineer to change how they write applications, support operators in rethinking how they run modern infrastructure and enable product owners to regain full control over their product portfolio.
 
 #### License
 
